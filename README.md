@@ -1,2 +1,2 @@
 # SLAC_ViT
-Replaced CNN encoder with ViT\
+Replaced CNN encoder with ViT
