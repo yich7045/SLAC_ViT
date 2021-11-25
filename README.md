@@ -1,2 +1,2 @@
 # SLAC_ViT
-Replace CNN encoder with ViT tested on Minitouch benchmark 
+Replaced CNN encoder with ViT
