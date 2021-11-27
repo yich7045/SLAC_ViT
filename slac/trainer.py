@@ -61,7 +61,7 @@ class Trainer:
         seed=0,
         num_steps=3 * 10 ** 7,
         initial_collection_steps= 50000,
-        initial_learning_steps=100000,
+        initial_learning_steps=50000,
         num_sequences=8,
         eval_interval=10,
         num_eval_episodes=10,
